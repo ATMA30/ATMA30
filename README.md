@@ -1,4 +1,4 @@
-# <div align="center">👋 Salut, moi c'est <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=300&lines=Melchior+AHOLOU" alt="Typing SVG" /></div>
+# <div align="center">👋 Bonjour, moi c'est <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=300&lines=Melchior+AHOLOU" alt="Typing SVG" /></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Ing%C3%A9nieur+Data+%26+IA+%E2%80%A2+Data+Scientist+%26+Analytics+Engineer;Lille%2C+France+%E2%80%A2+En+alternance+chez+Danslesbottes.fr;Passionn%C3%A9+par+la+data%2C+le+ML%2C+les+dashboards+%26+l%27IA+appliqu%C3%A9e" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-💬 **Je suis un ingénieur data en alternance**, avec un double profil :
+💬 **Je suis un ingénieur data**, avec un double profil :
 - **Data Scientist** : machine learning, séries temporelles, prédiction
 - **Analytics Engineer** : collecte, traitement et dashboards décisionnels
 
@@ -79,12 +79,12 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melchioraholou&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ATMA30&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melchioraholou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchioraholou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ATMA30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATMA30&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -95,7 +95,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-Je cherche des projets ou alternances dans les domaines :
+Je suis à la recherche de projets ou d'une alternance dans les domaines suivants:
 - **Data Science appliquée**
 - **Data Engineering**
 - **Analytics / IA**
@@ -115,11 +115,15 @@ Je cherche des projets ou alternances dans les domaines :
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Citation qui m'inspire
 
 <div align="center">
-  <img src="https://readme-quotes-api.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=Redhat_Display" alt="Quote" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=100&section=header&text=💡%20Citation&fontSize=25&fontColor=000&animation=fadeIn" />
+  
+  <div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px;">
+    <p style="color: #f0f0f0; font-style: italic; font-size: 18px; margin: 10px 0;">
+      "Quand l'algorithme apprend, l'esprit humain s'éveille à de nouveaux rêves."
+    </p>
+    <p style="color: #ccc; margin: 0;">– Le Chat 😉</p>
+  </div>
 </div>
-
-> *« Quand les machines pensent, l'homme peut enfin écouter le chant du vent. »*  
-> – ChatGPT 😉
 
 ---
 
@@ -128,8 +132,8 @@ Je cherche des projets ou alternances dans les domaines :
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=melchioraholou&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/melchioraholou?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ATMA30&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ATMA30?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </div>
 
 <div align="center">
